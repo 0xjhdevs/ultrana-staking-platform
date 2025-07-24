@@ -14,7 +14,7 @@ This platform encompasses key functionalities such as pooling, liquidity provisi
 ### Clone
 
 ```
-   git clone https://jasonharry198752@bitbucket.org/0xjhdev/ultrana-staking-platform.git
+   git clone https://github.com/0xjhdevs/ultrana-staking-platform
 ```
 ### Change directory
 
